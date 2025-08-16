@@ -8,7 +8,7 @@ const config = {
   OWNER_NUMBER: "254725474072",   // Owner number (with country code, no +)
 
   // ================== SESSION SETTINGS ==================
-  MEGA_SESSION_URL: "https://mega.nz/file/nector~N9pBTIxL#Jg9DoCwji6k3NYGNky_B-mLN2Ks8xFWtcAt9Q40hWU4",
+  MEGA_SESSION_URL: "https://mega.nz/file/V45X2CYS#tEc8PCbZ3yVtHJOmXBLGkdauBkkgsmv_1mYKqukzlW8",
   // Your MEGA session file link (make sure it's valid)
 
   // ================== BOT BEHAVIOR ==================
